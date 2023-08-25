@@ -1,0 +1,57 @@
+p.izquierda {
+    text-align: left;
+}
+p.derecha {
+    text-align: right;
+}
+p.centrado {
+    text-align: center;
+}
+p.justificado {
+    text-align: justify;
+}
+
+h2.decorado{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
+
+h2.decorado2{
+    text-decoration: overline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+}
+
+h2.decorado3{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: double;
+}
+
+p.transform{
+    text-transform: capitalize;
+    letter-spacing: 5px;
+}
+p.transform2{
+    text-transform: lowercase;
+    line-height: 7px;
+}
+p.transform3{
+    text-transform: uppercase;
+    word-spacing: 9px;
+}
+
+h2.sombra{
+    text-shadow: 5px 5px 5px blueviolet   ;
+}
+h2.sombra2{
+    color: blue;
+    text-shadow: 0px 0px 6px rgb(130, 5, 247);
+}
+h2.sombra3{
+    text-shadow: -5px -5px 5px blueviolet;
+}
+h2.sombra4{
+    text-shadow: 50px 30px 5px blueviolet;
+}

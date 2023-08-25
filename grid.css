@@ -1,0 +1,20 @@
+div.grid-container{
+    display: grid;
+    background-color: grey;
+    grid-template-columns: auto 150px 150px;
+    grid-template-rows: repeat(3,150px);
+    /* height: 500px; */
+
+    /* center, space betwien */
+}
+
+.grid-container > div{
+    margin: 10px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    font-size: 1.5em;
+    /* width: 50px;
+    height: 50px; */
+    
+}

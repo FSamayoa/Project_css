@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover {
+    background-color: blueviolet;
+    color: white;
+}

@@ -1,0 +1,41 @@
+p.solid {
+    border-style:solid;
+    border-radius: 5px;
+    border-color: rgb(23, 70, 70);
+}
+p.dotted {
+    border-style:dotted;
+    border-radius: 10px;
+    border-color: rgb(23, 70, 70);
+}
+p.dashed {
+    border-style:dashed;
+    border-radius: 15px;
+    border-color: rgb(23, 70, 70);
+}
+p.double {
+    border-style:double;
+    border-radius: 20px;
+    border-color: rgb(23, 70, 70);
+}
+p.grove {
+    border-style:grove;
+    border-radius: 25px;
+    border-color: rgb(23, 70, 70);
+}
+p.ridge {
+    border-style:ridge;
+    border-radius: 30px;
+    border-color: cyan;
+}
+p.inset {
+    border-style:inset;
+    border-radius: 35px;
+    border-color: cyan;
+}
+p.outset {
+    border-style:outset;
+    border-radius: 40px;
+    border-color: cyan;
+}
+
